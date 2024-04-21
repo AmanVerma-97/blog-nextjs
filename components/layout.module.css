@@ -3,7 +3,9 @@
     padding: 0 1rem;
     margin: 3rem auto 6rem;
     border: 2px saddlebrown solid;
+    box-shadow: 5px 0px 10px 0px black;
     text-align: center;
+    background: beige;
   }
 
   .header {
@@ -15,3 +17,4 @@
   .backToHome {
     margin: 3rem 0 0;
   }
+

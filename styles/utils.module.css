@@ -50,3 +50,11 @@
   .lightText {
     color: #666;
   }
+
+  .link:hover{
+    color: blueviolet;
+  }
+
+  .back:hover{
+    color: rgb(119, 55, 55);
+  }
